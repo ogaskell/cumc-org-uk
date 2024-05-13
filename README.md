@@ -3,6 +3,8 @@ In future, the prod server will be setup as a `git remote`, so be careful with y
 \- Edmund
 
 ## Setup
+Requires Node 16 - installed version of node-sass requires Node 16 or 17, and Node 17 causes SSL errors.
+
 You will need to run
 
 ### `cd client && npm install` (o.e.)
